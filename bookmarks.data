@@ -1,61 +1,67 @@
 <li title="news"><a href="https://news.ycombinator.com/">Hacker News</a></li>
 <li title="aws, route53, amazon, github"><a href="https://github.com/open-guides/og-aws">Amazon Web Services — a practical guide</a></li>
-<li title=""><a href="https://www.contentful.com/">Contentful</a>
-<li title=""><a href="http://www.sparkleformation.io/">SparkleFormation</a>
-<li title=""><a href="https://www.starkandwayne.com/videos/">Stark &amp; Wayne Videos</a>
-<li title=""><a href="http://engineering.pivotal.io/post/worlds-smallest-concourse-server/">The World&#39;s Smallest Concourse CI Server · Pivotal Engineering Journal</a>
-<li title=""><a href="https://jenkins.io/blog/2016/08/10/rails-cd-with-pipeline/">Continuous Security for Rails apps with Pipeline and Brakeman</a>
-<li title=""><a href="http://guides.rubyonrails.org/v4.2/getting_started.html">Getting Started with Rails — Ruby on Rails Guides</a>
-<li title=""><a href="https://www.railstutorial.org/book/frontmatter">Ruby on Rails Tutorial (Rails 5) | Softcover.io</a>
-<li title=""><a href="https://gist.github.com/kevin-smets/8568070">iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS) · GitHub</a>
-<li title=""><a href="http://blog.apcelent.com/using-ansible-to-setup-postgresql.html">Using Ansible to Set Up PostgreSQL</a>
-<li title=""><a href="https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ">Savjee - YouTube</a>
-<li title=""><a href="https://www.cloudbees.com/blog/bitbucket-cloud-repository-detection-cloudbees-jenkins-workflow">Bitbucket Cloud Repository Detection with CloudBees Jenkins Workflow | CloudBees</a>
-<li title=""><a href="https://www.youtube.com/channel/UCDXcfvbtHigu3o81rDq1YJw">dataFundamentals - YouTube</a>
-<li title=""><a href="http://stackoverflow.com/questions/37425064/how-to-use-environment-variables-in-a-groovy-function-using-a-jenkinsfile">jenkins - How to use environment variables in a groovy function using a Jenkinsfile - Stack Overflow</a>
-<li title=""><a href="https://github.com/jenkinsci/pipeline-examples">GitHub - jenkinsci/pipeline-examples: A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin</a>
-<li title=""><a href="https://jenkins.io/doc/pipeline/examples/">Pipeline Examples</a>
-<li title=""><a href="https://github.com/TTFHW">TTFHW - Time To First Hello World · GitHub</a>
-<li title=""><a href="http://christopher5106.github.io/continous/deployment/2016/05/02/deploy-instantly-from-your-host-to-AWS-EC2-and-Google-Cloud-with-kubernetes.html">Deploying with Docker and Kubernetes - tutorial from your PC to AWS EC2, Google cloud, Microsoft Azure or any private servers</a>
-<li title=""><a href="https://code.tutsplus.com/articles/introduction-to-docker-and-kubernetes--cms-25406">Introduction to Docker and Kubernetes</a>
-<li title=""><a href="https://www.udemy.com/understanding-docker-performing-selenium-automation/">Understanding Docker and using it for Selenium automation | Udemy</a>
-<li title=""><a href="http://hakunin.com/six-ansible-practices">6 practices for super smooth Ansible experience by Maxim Chernyak</a>
-<li title=""><a href="https://www.codementor.io/devops/tutorial/automating-network-creation-scenarios-aws-vpc">Automating Network Mastering Scenarios for Amazon VPC with Ansible | Codementor</a>
-<li title=""><a href="http://jeremievallee.com/2016/07/27/aws-vpc-ansible/">Set up your AWS VPC with Ansible 2.0 · Jeremie Vallee</a>
-<li title=""><a href="https://github.com/arbabnazar/ansible-aws-vpc-ha-wordpress">GitHub - arbabnazar/ansible-aws-vpc-ha-wordpress: The purpose of Ansible AWS VPC Highly-Available Wordpress is to create a fully operational AWS VPC infrastructure(subnets,routeing tables,igw etc), it will also create everything that need to be for creating EC2 and RDS instances (security key, security group, subnet group)</a>
-<li title=""><a href="https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments">How To Use Fabric To Automate Administration Tasks And Deployments | DigitalOcean</a>
-<li title=""><a href="https://serversforhackers.com/video/deploying-with-fabric">Deploying with Fabric - Servers for Hackers</a>
-<li title=""><a href="https://github.com/mattmakai/sf-django">GitHub - mattmakai/sf-django: Ansible Playbooks and extensive documentation for deploying Django web applications on a Linux, Nginx, PostgreSQL stack.</a>
-<li title=""><a href="https://github.com/ansible/ansible-examples">GitHub - ansible/ansible-examples: A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.</a>
-<li title=""><a href="http://docs.ansible.com/ansible/playbooks_best_practices.html">Best Practices — Ansible Documentation</a>
-<li title=""><a href="https://chromatichq.com/blog/automated-servers-and-deployments-ansible-jenkins">Automated Servers and Deployments with Ansible &amp; Jenkins | Chromatic</a>
-<li title=""><a href="https://www.calazan.com/projects/">Projects | Calazan.com</a>
-<li title=""><a href="https://aws.amazon.com/blogs/devops/set-up-a-build-pipeline-with-jenkins-and-amazon-ecs/">Set up a build pipeline with Jenkins and Amazon ECS | AWS DevOps Blog</a>
-<li title=""><a href="http://ruby-journal.com/how-to-setup-rails-app-with-puma-and-nginx/">How to setup Rails app with puma and NGINX - Ruby Journal</a>
-<li title=""><a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04#install-puma">How To Deploy a Rails App with Puma and Nginx on Ubuntu 14.04 | DigitalOcean</a>
-<li title=""><a href="https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/">$15 Production Kubernetes Cluster on DigitalOcean</a>
-<li title=""><a href="https://medium.com/@levinotik/how-we-deploy-from-slack-using-jenkins-terraform-docker-and-ansible-4196b6856cdf#.mb4hm4hd8">How we deploy from Slack using Jenkins, Terraform, Docker and Ansible – Medium</a>
-<li title=""><a href="https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c#.1fufrvoxy">Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation</a>
-<li title=""><a href="https://github.com/skyscrapers/demo-aws-meetup">GitHub - skyscrapers/demo-aws-meetup: Cloudformation vs Terraform vs Ansible</a>
-<li title=""><a href="https://objectpartners.com/2016/06/01/automating-terraform-projects-with-jenkins/">Automating Terraform Projects with Jenkins | Object Partners</a>
-<li title=""><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-timezone-and-ntp-synchronization-on-ubuntu-14-04-quickstart">How To Set Timezone and NTP Sync on Ubuntu [Quickstart] | DigitalOcean</a>
-<li title=""><a href="http://www.cakesolutions.net/teamblogs/brief-introduction-to-rspec-and-simplecov-for-ruby">Ruby code coverage using RSpec, SimpleCov and Jenkins</a>
-<li title=""><a href="http://trainingdevops.com/training-material/ansible-workshop/using-ansible-with-terrafoam">Using Ansible with Terrafoam | DevOps Tips and Trainings</a>
-<li title=""><a href="https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean">How To Use Terraform with DigitalOcean | DigitalOcean</a>
-<li title=""><a href="http://www.bogotobogo.com/DevOps/Jenkins/Jenkins_on_EC2_setting_up_master_slaves.php">Jenkins on EC2 : Setting up Master and Slave nodes - 2016</a>
-<li title=""><a href="https://jenkins.io/blog/2016/06/10/save-costs-with-ec2-spot-fleet/">Save up to 90% of CI cost on AWS with Jenkins and EC2 Spot Fleet</a>
-<li title=""><a href="http://www.stuartellis.name/articles/jenkins-pipeline/">Using Jenkins Pipelines with Docker · Notes from the Field</a>
-<li title=""><a href="https://adamcod.es/2015/10/22/a-pracitcal-introduction-to-terraform-tutorial.html">A Practical Introduction to Terraform - adamcod.es</a>
-<li title=""><a href="https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#.i4yfw85x0">An Introduction to Terraform</a>
-<li title=""><a href="https://stackoverflow.com/questions/22256884/not-possible-to-source-bashrc-with-ansible">Not possible to source .bashrc with Ansible - Stack Overflow</a>
-<li title=""><a href="https://ansible-tips-and-tricks.readthedocs.io/en/latest/">Ansible Tips and Tricks</a>
-<li title=""><a href="https://gist.github.com/akras14/3d242d80af8388ebca60">Getting-Cheat-Sheet.md · GitHub</a>
-<li title=""><a href="https://github.com/git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean">GitHub - git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean: Steps I take when setting up a VPN server on Digital Ocean</a>
-<li title=""><a href="https://github.com/robbintt/popup-openvpn">GitHub - robbintt/popup-openvpn: Make a self hosted OpenVPN server in 15 minutes</a>
-<li title=""><a href="http://www.postgresqltutorial.com/">PostgreSQL Tutorial</a>
-<li title=""><a href="https://rendykstan.github.io/blog/2013/04/04/postgresql-vacuum-and-analyze-maintenance-and-performance/">Postgresql Vacuum and Analyze, Maintenance and Performance - Coding, Design and Agile Processes</a>
-<li title=""><a href="https://www.skytorrents.in/">Sky torrents a Privacy focused torrent search engine</a>
-<li title=""><a href="http://www.devopsbookmarks.com/">DevOps Bookmarks</a>
-<li title=""><a href="https://www.amon.cx/">Amon - Straightforward monitoring for your infrastructure</a>
-<li title=""><a href="https://www.codementor.io/devops/tutorial">DevOps Tutorials for Beginners and Programmers | Codementor</a>
-<li title=""><a href="http://linoxide.com/ubuntu-how-to/setup-graylog2-ubuntu-16-04/">Setup Graylog2 Log Analyzer to Store and Search Log Errors</a>
+<li title="contentful, cms"><a href="https://www.contentful.com/">Contentful</a></li>
+<li title="sparkleformation"><a href="http://www.sparkleformation.io/">SparkleFormation</a></li>
+<li title="concourseci, ci, cd, tutorial"><a href="https://www.starkandwayne.com/videos/">Stark &amp; Wayne Videos</a></li>
+<li title="concourseci, ci, cd"><a href="http://engineering.pivotal.io/post/worlds-smallest-concourse-server/">The World&#39;s Smallest Concourse CI Server · Pivotal Engineering Journal</a></li>
+<li title="ruby, rails, cd, pipeline"><a href="https://jenkins.io/blog/2016/08/10/rails-cd-with-pipeline/">Continuous Security for Rails apps with Pipeline and Brakeman</a></li>
+<li title="ruby, rails"><a href="http://guides.rubyonrails.org/v4.2/getting_started.html">Getting Started with Rails — Ruby on Rails Guides</a></li>
+<li title="ruby, rails"><a href="https://www.railstutorial.org/book/frontmatter">Ruby on Rails Tutorial (Rails 5) | Softcover.io</a></li>
+<li title="cmd, zsh, iterm"><a href="https://gist.github.com/kevin-smets/8568070">iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS) · GitHub</a></li>
+<li title="pg, pgsql, ansible"><a href="http://blog.apcelent.com/using-ansible-to-setup-postgresql.html">Using Ansible to Set Up PostgreSQL</a></li>
+<li title="youtube"><a href="https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ">Savjee - YouTube</a></li>
+<li title="jenkins, ci, cd, cloudbees, workflow"><a href="https://www.cloudbees.com/blog/bitbucket-cloud-repository-detection-cloudbees-jenkins-workflow">Bitbucket Cloud Repository Detection with CloudBees Jenkins Workflow | CloudBees</a></li>
+<li title="youtube"><a href="https://www.youtube.com/channel/UCDXcfvbtHigu3o81rDq1YJw">dataFundamentals - YouTube</a></li>
+<li title="jenkins, jenkinsfile, groovy"><a href="http://stackoverflow.com/questions/37425064/how-to-use-environment-variables-in-a-groovy-function-using-a-jenkinsfile">jenkins - How to use environment variables in a groovy function using a Jenkinsfile - Stack Overflow</a></li>
+<li title="jenkins, pipeline, tutotial"><a href="https://github.com/jenkinsci/pipeline-examples">GitHub - jenkinsci/pipeline-examples: A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin</a></li>
+<li title="jenkins, pipeline, examples, tutorial"><a href="https://jenkins.io/doc/pipeline/examples/">Pipeline Examples</a></li>
+<li title="pipeline, jenkins"><a href="https://github.com/TTFHW">TTFHW - Time To First Hello World · GitHub</a></li>
+<li title="docker, kubernetes, tutorial"><a href="http://christopher5106.github.io/continous/deployment/2016/05/02/deploy-instantly-from-your-host-to-AWS-EC2-and-Google-Cloud-with-kubernetes.html">Deploying with Docker and Kubernetes - tutorial from your PC to AWS EC2, Google cloud, Microsoft Azure or any private servers</a></li>
+<li title="docker, kubernetes, introduction, tutorial"><a href="https://code.tutsplus.com/articles/introduction-to-docker-and-kubernetes--cms-25406">Introduction to Docker and Kubernetes</a></li>
+<li title="devops, ansible"><a href="http://hakunin.com/six-ansible-practices">6 practices for super smooth Ansible experience by Maxim Chernyak</a></li>
+<li title="aws, vpc, devops"><a href="https://www.codementor.io/devops/tutorial/automating-network-creation-scenarios-aws-vpc">Automating Network Mastering Scenarios for Amazon VPC with Ansible | Codementor</a></li>
+<li title="aws, vpc, ansible"><a href="http://jeremievallee.com/2016/07/27/aws-vpc-ansible/">Set up your AWS VPC with Ansible 2.0 · Jeremie Vallee</a></li>
+<li title="aws, vpc, ansible, wordpress"><a href="https://github.com/arbabnazar/ansible-aws-vpc-ha-wordpress">GitHub - arbabnazar/ansible-aws-vpc-ha-wordpress: The purpose of Ansible AWS VPC Highly-Available Wordpress is to create a fully operational AWS VPC infrastructure(subnets,routeing tables,igw etc), it will also create everything that need to be for creating EC2 and RDS instances (security key, security group, subnet group)</a></li>
+<li title="fabric, python, automate, admin"><a href="https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments">How To Use Fabric To Automate Administration Tasks And Deployments | DigitalOcean</a></li>
+<li title="fabric, server, deploy"><a href="https://serversforhackers.com/video/deploying-with-fabric">Deploying with Fabric - Servers for Hackers</a></li>
+<li title="django, ansible, nginx, postgresql"><a href="https://github.com/mattmakai/sf-django">GitHub - mattmakai/sf-django: Ansible Playbooks and extensive documentation for deploying Django web applications on a Linux, Nginx, PostgreSQL stack.</a></li>
+<li title="ansible, examples"><a href="https://github.com/ansible/ansible-examples">GitHub - ansible/ansible-examples: A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.</a></li>
+<li title="ansible, playbooks"><a href="http://docs.ansible.com/ansible/playbooks_best_practices.html">Best Practices — Ansible Documentation</a></li>
+<li title="ansible, jenkins, automate, deploy"><a href="https://chromatichq.com/blog/automated-servers-and-deployments-ansible-jenkins">Automated Servers and Deployments with Ansible &amp; Jenkins | Chromatic</a></li>
+<li title="django, python, webapps"><a href="https://www.calazan.com/projects/">Projects | Calazan.com</a></li>
+<li title="jenkins, aws, pipeline, ecs, devops"><a href="https://aws.amazon.com/blogs/devops/set-up-a-build-pipeline-with-jenkins-and-amazon-ecs/">Set up a build pipeline with Jenkins and Amazon ECS | AWS DevOps Blog</a></li>
+<li title="rails, ruby, puma, nginx"><a href="http://ruby-journal.com/how-to-setup-rails-app-with-puma-and-nginx/">How to setup Rails app with puma and NGINX - Ruby Journal</a></li>
+<li title="deploy, rails, puma, nginx, ubuntu"><a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04#install-puma">How To Deploy a Rails App with Puma and Nginx on Ubuntu 14.04 | DigitalOcean</a></li>
+<li title="kubernetes, production, cluster"><a href="https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/">$15 Production Kubernetes Cluster on DigitalOcean</a></li>
+<li title="deploy, slack, jenkins, terraform, docker, ansible"><a href="https://medium.com/@levinotik/how-we-deploy-from-slack-using-jenkins-terraform-docker-and-ansible-4196b6856cdf#.mb4hm4hd8">How we deploy from Slack using Jenkins, Terraform, Docker and Ansible – Medium</a></li>
+<li title="terraform, devops"><a href="https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c#.1fufrvoxy">Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation</a></li>
+<li title="cloudformation, terraform, ansible"><a href="https://github.com/skyscrapers/demo-aws-meetup">GitHub - skyscrapers/demo-aws-meetup: Cloudformation vs Terraform vs Ansible</a></li>
+<li title="automate, terraform, jenkins"><a href="https://objectpartners.com/2016/06/01/automating-terraform-projects-with-jenkins/">Automating Terraform Projects with Jenkins | Object Partners</a></li>
+<li title="timezone, ntp, ubuntu"><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-timezone-and-ntp-synchronization-on-ubuntu-14-04-quickstart">How To Set Timezone and NTP Sync on Ubuntu [Quickstart] | DigitalOcean</a></li>
+<li title="rspec, simplecov, ruby, jenkins"><a href="http://www.cakesolutions.net/teamblogs/brief-introduction-to-rspec-and-simplecov-for-ruby">Ruby code coverage using RSpec, SimpleCov and Jenkins</a></li>
+<li title="ansible, terraform"><a href="http://trainingdevops.com/training-material/ansible-workshop/using-ansible-with-terrafoam">Using Ansible with Terrafoam | DevOps Tips and Trainings</a></li>
+<li title="terraform, tutorials, digitalocean"><a href="https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean">How To Use Terraform with DigitalOcean | DigitalOcean</a></li>
+<li title="jenkins, ec2, master, slave"><a href="http://www.bogotobogo.com/DevOps/Jenkins/Jenkins_on_EC2_setting_up_master_slaves.php">Jenkins on EC2 : Setting up Master and Slave nodes - 2016</a></li>
+<li title="jenkins, ec2"><a href="https://jenkins.io/blog/2016/06/10/save-costs-with-ec2-spot-fleet/">Save up to 90% of CI cost on AWS with Jenkins and EC2 Spot Fleet</a></li>
+<li title="jenkins, pipeline, docker"><a href="http://www.stuartellis.name/articles/jenkins-pipeline/">Using Jenkins Pipelines with Docker · Notes from the Field</a></li>
+<li title="pracitcal, introduction, terraform, tutorial"><a href="https://adamcod.es/2015/10/22/a-pracitcal-introduction-to-terraform-tutorial.html">A Practical Introduction to Terraform - adamcod.es</a></li>
+<li title="introduction, terraform"><a href="https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#.i4yfw85x0">An Introduction to Terraform</a></li>
+<li title="bashrc, ansible, stackoverflow"><a href="https://stackoverflow.com/questions/22256884/not-possible-to-source-bashrc-with-ansible">Not possible to source .bashrc with Ansible - Stack Overflow</a></li>
+<li title="ansible, tips, tricks, readthedocs"><a href="https://ansible-tips-and-tricks.readthedocs.io/en/latest/">Ansible Tips and Tricks</a></li>
+<li title="gist, github"><a href="https://gist.github.com/akras14/3d242d80af8388ebca60">Getting-Cheat-Sheet.md · GitHub</a></li>
+<li title="openvpn, digitalocean"><a href="https://github.com/git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean">GitHub - git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean: Steps I take when setting up a VPN server on Digital Ocean</a></li>
+<li title="openvpn, github"><a href="https://github.com/robbintt/popup-openvpn">GitHub - robbintt/popup-openvpn: Make a self hosted OpenVPN server in 15 minutes</a></li>
+<li title="postgresql, tutorial"><a href="http://www.postgresqltutorial.com/">PostgreSQL Tutorial</a></li>
+<li title="github, postgresql, vacuum, analyze, maintenance, performance"><a href="https://rendykstan.github.io/blog/2013/04/04/postgresql-vacuum-and-analyze-maintenance-and-performance/">Postgresql Vacuum and Analyze, Maintenance and Performance - Coding, Design and Agile Processes</a></li>
+<li title="torrents, privacy, searchengine"><a href="https://www.skytorrents.in/">Sky torrents a Privacy focused torrent search engine</a></li>
+<li title="devops, bookmarks"><a href="http://www.devopsbookmarks.com/">DevOps Bookmarks</a></li>
+<li title="monitor, infrastructure, server"><a href="https://www.amon.cx/">Amon - Straightforward monitoring for your infrastructure</a></li>
+<li title="devops, tutorials, codementor"><a href="https://www.codementor.io/devops/tutorial">DevOps Tutorials for Beginners and Programmers | Codementor</a></li>
+<li title="linoxide, ubuntu, graylog2, log-analyzer"><a href="http://linoxide.com/ubuntu-how-to/setup-graylog2-ubuntu-16-04/">Setup Graylog2 Log Analyzer to Store and Search Log Errors</a></li>
+<li title="upskillcourses, web-developer, Full-Stack, ruby-on-rails, web-apps"><a href="http://upskillcourses.com/p/essential-web-developer-course">The Essential Web Developer Course (Free) Build Full-Stack Web Apps with Ruby on Rails</a></li>
+<li title="ansible, fabric, python"><a href="http://www.mattmakai.com/presentations/2014-cos-ansible.html#/">AUTOMATED DEPLOYMENTS WITH ANSIBLE AND FABRIC</a></li>
+<li title="amon, ansible"><a href="https://www.amon.cx/blog/one-year-with-ansible/">What I learned from a year using Ansible extensively</a></li>
+<li title="ansible, tutorial"><a href="https://serversforhackers.com/an-ansible-tutorial">An Ansible Tutorial</a></li>
+<li title="amazon, aws, ec2, ami"><a href="https://cloud-images.ubuntu.com/locator/ec2/">Amazon EC2 AMI Locator</a></li>
+<li title="rails, sublimetext"><a href="https://www.nopio.com/blog/local-environment-configuration-rails-sublimetext/">How to set up Local Environment for Rails with SublimeText</a></li>
+<li title="zsh, terminal"><a href="https://assortment.io/posts/installing-zsh-customising-terminal">Installing Zsh and customising Terminal</a></li>
