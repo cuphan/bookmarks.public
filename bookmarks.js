@@ -50,8 +50,7 @@ function showRandom() {
 /**
 * Poplate the "related tags" area.
 */
-function updateRelatedTags(tag)
-{
+function updateRelatedTags(tag) {
     /*
      * For each bookmark - add the tags used if it contains the
      * currently selected tag.
@@ -105,20 +104,18 @@ function updateRelatedTags(tag)
     $("#related").html("");
     for (t in cleanKeys)
     {
-        $("#related").append("<a class=\"tagfilter\" href=\"#" + encodeURIComponent(cleanKeys[t]) + "\">" + cleanKeys[t] + "</a>, ");
+        $("#related").append("<a class=\"tagfilter\" href=\"#" + encodeURIComponent(cleanKeys[t]) + "\" target=\"_blank\">" + cleanKeys[t] + "</a>, ");
     }
 
     /** Remove trailing ", ". */
     $("#related").html($("#related").html().replace(/, $/, '.'));
-
 }
 
 
 /**
  * Show the number of visible bookmarks in the titlebar.
  */
-function updateTitle()
-{
+function updateTitle() {
     var count = $("#bookmarks > li:visible").length;
     var plural = ((count === 0) || (count > 1)) ? 's' : '';
     document.title = count + " visible bookmark" + plural;
@@ -166,8 +163,7 @@ function addBookmark() {
  * This function collects each distinct tag,
  * stripping whitespace, and placing into sorted order.
  */
-function collectTags()
-{
+function collectTags() {
     var tags = {};
     $("#bookmarks").children().each(function () {
         var tag = $(this).attr("title");
@@ -257,8 +253,7 @@ function decorate(entry, tag) {
 /**
  * Append the list of tags beneath each bookmark, for easy viewing.
  */
-function showTags()
-{
+function showTags() {
     $("#bookmarks").children().each(function () {
         var tag = $(this).attr("title");
         if (typeof tag !== 'undefined')
@@ -271,8 +266,7 @@ function showTags()
 /**
  * Remove the list of tags beneath each bookmark.
  */
-function hideTags()
-{
+function hideTags() {
     $("#bookmarks").children().each(function () {
         var tag = $(this).attr("title");
         if (typeof tag !== 'undefined')
@@ -286,8 +280,7 @@ function hideTags()
 /**
  * Sort the items in the UL which contains our bookmarks.
  */
-function sortBookmarks()
-{
+function sortBookmarks() {
     var mylist = $('#bookmarks');
     var listitems = mylist.children('li').get();
     listitems.sort(function (a, b) {
@@ -301,8 +294,7 @@ function sortBookmarks()
 /**
  * Update the bookmarks, via the hash
  */
-function updateView()
-{
+function updateView() {
     if (typeof window.location.hash !== 'string' || window.location.hash.length === 0)
     {
         updateRelatedTags();
@@ -327,7 +319,7 @@ function updateView()
  * Restore Add bookmark form back to new bookmark mode
  * after saving editing results / canceling editing
  */
-function doneEditBookmark () {
+function doneEditBookmark() {
     // cleanup form
     $('#newName').val('');
     $('#newLink').val('');
@@ -340,7 +332,7 @@ function doneEditBookmark () {
 /**
  * Switch Add bookmark form to editing mode
  */
-function editBookmark (selector) {
+function editBookmark(selector) {
     var date = new Date();
     var now  = Math.trunc(date.getTime() / 1000);
 
@@ -371,7 +363,7 @@ function editBookmark (selector) {
 /**
  * Setup edit / remove handlers
  */
-function setupEditRemove () {
+function setupEditRemove() {
     var li = $("#bookmarks > li");
     li.mouseenter(function(){
         var cli = $(this);
@@ -440,7 +432,7 @@ function setupAutocomplete () {
  * Load our bookmarks from the URL `bookmarks.data`, and setup our
  * initial state + listeners.
  */
-function setup () {
+function setup() {
 
     $("#bookmarks").load("bookmarks.data",function() {
 
